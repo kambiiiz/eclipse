@@ -20,13 +20,11 @@ Create and take quizzes online.
 - Timed quizzes
 - Leaderboard
 - Results analytics
-
 ## Tech Stack
 - React
 - Node.js
 - Socket.io
 - MongoDB
-
 ## License
 MIT
 curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
